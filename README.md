@@ -1,2 +1,3 @@
-# git-bash-lab
-Lab for bash scripts
+
+# Git & Bash Lab - Main Branch
+
